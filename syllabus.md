@@ -120,20 +120,19 @@ get started on it.
 
 ## Grading
 
-* Projects (70%):
+* Projects (65%):
   * Deliverable 1 - 10%
   * Deliverable 2 - 15%
-  * Deliverable 3 - 15%
+  * Deliverable 3 - 10%
   * Deliverable 4 - 15%
   * Deliverable 5 - 15%
 * Midterms (20%):
   * Midterm 1 - 10%
   * Midterm 2 - 10%
-* Participation (10%)
-  * TopHat attendance
-  * TopHat lecture questions
-  * Exercise submissions (satisfactory / unsatisfactory)
-  * Teams participation
+* Participation (15%)
+  * TopHat attendance - 5%
+  * TopHat lecture questions - 5%
+  * Exercise submissions (satisfactory / unsatisfactory) - 5%
 
 TopHat questions will be asked in class on lectures done on that day, or on
 recorded lectures that were assigned due that day.  Recorded lectures are
