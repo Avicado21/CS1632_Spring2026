@@ -33,6 +33,9 @@ export default defineConfig({
     /* Set the testIdAttribute to 'id' to use the id attribute for test IDs. */
     testIdAttribute: 'id',
   },
+  expect: {
+    toHaveScreenshot: { maxDiffPixelRatio: 0.02, threshold: 0.2 },
+  },
 
   /* Configure projects for major browsers */
   projects: [
