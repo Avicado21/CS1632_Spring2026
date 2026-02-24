@@ -47,6 +47,8 @@ public class DeathStarTest {
 
 		deathStar.shoot(plant);
 
+		
+
 		Mockito.verify(plant).damage(100);
 	
 	}
